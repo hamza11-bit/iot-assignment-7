@@ -1,0 +1,6 @@
+[submodule "my_project"]
+	path = my_project
+	url = https://github.com/hamza11-bit/hamza.git
+[submodule "myproject1"]
+	path = myproject1
+	url = C:\\Users\\Muskan\\Desktop\\github\\myproject1
